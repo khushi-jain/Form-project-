@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HarpreetSingh005/Form.git"
+    "url": "git+https://github.com/khushi-jain/Form-project-"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HarpreetSingh005/Form/issues"
+    "url": "https://github.com/khushi-jain/Form-project-/issues"
   },
-  "homepage": "https://github.com/HarpreetSingh005/Form#readme",
+  "homepage": "https://github.com/khushi-jain/Form-project-#readme",
   "dependencies": {
     "express": "^4.17.2"
   }
